@@ -28,8 +28,8 @@ namespace Microsoft.TeamServices.Samples.Client.QuickStarts
         /// </summary>
         public ExecuteQuery()
         {
-            _uri = "https://basicprocess.visualstudio.com";
-            _personalAccessToken = "6orjg6yrismbi2qhpdrluwcmwdofk6uv6ebm2h5sn6yvn7zbhmba";
+            _uri = "https://accountname.visualstudio.com";
+            _personalAccessToken = "personal access token";
             _project = "project name";
         }
 
